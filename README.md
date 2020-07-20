@@ -1,7 +1,6 @@
 # My Public Plugins
 
-These plugins is the ones I decided to share with everyone.
-All of these plugins are using the [Sourcemod](https://www.sourcemod.net/) Addon. 
+These plugins are my public, that I shared free.
 
 Name | Description | Requirements | Repository
 --- | --- | --- | ---
