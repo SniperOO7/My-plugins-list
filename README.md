@@ -17,6 +17,7 @@ Name | Description | Requirements | Repository
 **I also doing private jobs, like custom plugins for money!**
 
 **If you interested in some of these plugin or you want some private job, you can contact me on [STEAM](https://steamcommunity.com/id/Sniper-oo7/)**
+**Not everything, that is listed here I selling !**
 
 Name | Description | Repository
 --- | --- | ---
@@ -24,3 +25,4 @@ Name | Description | Repository
 **Last Request Premium (FULL VERSION)** | This is full version of <b>Last request premium</b>. It include many features, that sm_hosties or demo version don't have | [click here](https://github.com/SniperOO7/LastRequest-Premium-FULL-VERSION)
 **BaseBuilder** | My private plugin for basebuilder, it is huge RPG plugin with many features for basebuilder, mysql database, XP system, item drops, private shop... | [click here](https://drive.google.com/file/d/1-MTUqCeBimbIG4NKGjCwxmGrdbtpMSkQ/view)
 **Competition** | My private plugin for competition for skin, that will choose one random player, that will win; you can write a name of skin; set the time how long will be competition; change if everyone can join or only steam group members ... | 
+**JailBreak-Premium** | My private plugin for JailBreak, this plugin you can find on my own JailBreak server, it contain everything you need for Jail server (karaoke, football, microphones, open/close doors, lots of days (mods) for jail, special rebel system, last request plugin, teamgames, questions for prisoners, simon steps, box mods... | 
