@@ -16,8 +16,9 @@ Name | Description | Requirements | Repository
 
 **I also doing private jobs, like custom plugins for money!**
 
-**If you interested in some of these plugin or you want some private job, you can contact me on [STEAM](https://steamcommunity.com/id/Sniper-oo7/)**
 **Not everything, that is listed here I selling !**
+
+**If you interested in some of these plugin or you want some private job, you can contact me on [STEAM](https://steamcommunity.com/id/Sniper-oo7/)**
 
 Name | Description | Repository
 --- | --- | ---
