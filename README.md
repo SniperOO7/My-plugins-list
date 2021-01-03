@@ -28,4 +28,4 @@ Name | Description | Repository
 **Competition** | My private plugin for competition for skin, that will choose one random player, that will win; you can write a name of skin; set the time how long will be competition; change if everyone can join or only steam group members ... | 
 **JailBreak-Premium** | My private JailBreak, this plugin you can find on my own JailBreak server, it contain everything you need for Jail server (karaoke, football, microphones, open/close doors, lots of days (mods) for jail, special rebel system, last request plugin, teamgames, questions for prisoners, simon steps, box mods, ctbans for admins, admin menu for admins, shop for prisoners and guards, many VIP features... | 
 **FootBall** | My private football plugin for JailBreak servers, more info: https://youtu.be/7NQB4PBvAZk | 
-**Ghost after death** | Player become ghost after death, player can use noclip, autobhop or play minigames with others | 
+**Ghost after death** | Player become ghost after death, player can use noclip, autobhop or play minigames with others ghost. Death players can see others ghosts | 
