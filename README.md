@@ -1,6 +1,6 @@
 # My Public Plugins
 
-These plugins are my public, that I shared free.
+These plugins are my public, that I shared free and all it's only for CS:GO.
 
 Name | Description | Requirements | Repository
 --- | --- | --- | ---
@@ -12,7 +12,7 @@ Name | Description | Requirements | Repository
 
 # My Private Plugins
 
-**All these plugins are maded by me!**
+**All these plugins are maded by me and all it's only for CS:GO!**
 
 **I also doing private jobs, like custom plugins for money!**
 
