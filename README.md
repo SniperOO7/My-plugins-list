@@ -4,7 +4,7 @@ These plugins are my public, that I shared free and all it's only for CS:GO.
 
 Name | Description | Requirements | Repository
 --- | --- | --- | ---
-**VIP Premium** | This plugins have many features for VIP players | None | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION)
+**VIP Premium (demo)** | This plugins have many features for VIP players | None | [click here](https://github.com/SniperOO7/VIP-Premium-FULL-VERSION)
 **Knife Premium** | This plugin changing damage and sounds of danger zone knifes, it's working with ingame currency. | None | [click here](https://github.com/SniperOO7/Knife-Premium)
 **Karaoke Premium** | This plugin is usefull for jailbreak servers, warden can play karaoke sounds for prisoners with HINT text | [MyJailBreak Plugin](https://forums.alliedmods.net/showthread.php?t=283212). | [click here](https://github.com/hallucinogenic/CS-GO-Glow-Menu)
 **Zombie Escape Premium**  | This is my huge project, it's zombie escape plugin with many features, that changing whole game | None | [click here](https://github.com/SniperOO7/Zombie-Escape-Premium)
